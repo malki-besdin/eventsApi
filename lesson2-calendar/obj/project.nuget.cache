@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atyS45nm73qIXg0rTsYcM4za9RrmrNi+F9jqRQDXs2rUkAgA94E6AUmcfpFpBSIAUpzHYMhJT0XSX7NFwxE5bA==",
+  "dgSpecHash": "UZ9qAsCMtbBHM/uWNu8y518djWxuCQ6fomoVOKy2+1opIBIEVhW6kvRFWi9D2f7KX08piTC/hwP46SCxwFq6Bg==",
   "success": true,
-  "projectFilePath": "Y:\\Groups\\Group_5\\הייזלר  מרים\\Dotnet\\lesson2-calendar\\lesson2-calendar\\lesson2-calendar.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_5\\בית  דין מלכה\\dotenet\\lesson2-calendar\\lesson2-calendar\\lesson2-calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
